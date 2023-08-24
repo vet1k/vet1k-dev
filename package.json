@@ -10,7 +10,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "dart-sass": "^1.25.0",
     "firebase": "^10.2.0",
+    "git": "^0.1.5",
+    "sass": "^1.66.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {

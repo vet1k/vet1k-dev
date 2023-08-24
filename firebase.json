@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "vet1k",
     "public": "dist",
     "ignore": [
       "firebase.json",
